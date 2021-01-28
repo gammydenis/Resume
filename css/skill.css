@@ -1,0 +1,30 @@
+.skil {
+  -webkit-columns: 125px;
+  -moz-columns: 125px;
+  columns: 125px;
+  max-width: 300px;
+  margin: 2em auto 0;
+}
+
+hr {
+  -webkit-column-span: all;
+  -moz-column-span: all;
+  column-span: all;
+  margin: 1em auto;
+  border-style: dashed;
+  border-width: 1px 0 0;
+  border-top-color: #e74c3c;
+}
+
+h1 {
+  font-size: 5em;
+  text-align: center;
+  font-weight: 400;
+  margin-bottom: 0.15em;
+  color: #2c3e50;
+}
+
+ul {
+  list-style: square;
+  margin-left: 2em;
+}
